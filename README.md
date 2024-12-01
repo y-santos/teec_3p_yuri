@@ -21,3 +21,8 @@ O objetivo da classificação é prever se o cliente irá subscrever um depósit
 qmarkdown - diretório com arquivos-fonte e imagens do relatório final, feita com Quarto Markdown, compilada em PDF
 
 slides - diretório com arquivos-fonte e imagens da apresentação final, feita com Quarto Markdown, compilada em Beamer
+
+## Links úteis
+
+Local do colab (necessário usar conta vinculada ao domínio @ufpe.br)
+https://colab.research.google.com/drive/1TOzUiit4JnNkelgz69gtz6WHLIJ6lJV2?usp=sharing
