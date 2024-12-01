@@ -25,4 +25,5 @@ slides - diretório com arquivos-fonte e imagens da apresentação final, feita 
 ## Links úteis
 
 Local do colab (necessário usar conta vinculada ao domínio @ufpe.br)
+
 https://colab.research.google.com/drive/1TOzUiit4JnNkelgz69gtz6WHLIJ6lJV2?usp=sharing
